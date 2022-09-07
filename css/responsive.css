@@ -1,0 +1,108 @@
+@media screen and (max-width: 720px) {
+
+
+    .for-desktop {
+        display: none;
+    }
+    .for-mobile {
+        display: block;
+    }
+    .welcome h1 {
+        font-size: 50px;
+    }
+    .hero-menu ul {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+    .hero-menu ul li {
+
+        margin-bottom: 30px;
+    }
+    .welcome {
+        width: 80%;
+    }
+    .event {
+        flex-direction: column;
+    }
+    .event-left   {
+        width: 100%;
+        padding: 50px 20px;
+    }
+    .event-left h2 {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+    .event-right {
+        width: 100%;
+        height: 70vh;
+    }
+    #testmonail {
+        flex-direction: column;
+    }
+    .textmonail-box {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    #testmonail {
+        padding: 20px;
+    }
+    .gym-list {
+        margin-bottom: 30px;
+    }
+    .section-padd {
+        padding: 50px 0;
+    }
+    .call-to-action h2  {
+        font-size: 70px;
+
+    }
+    #footer {
+        flex-direction: column;
+    }
+    .footer-box {
+        width: 100%;
+    }
+    .footer-box {
+        padding: 50px 0;
+    }
+    .btn-menu {
+        display: inline-block!important;
+    }
+    #navbar {
+        padding-bottom: 40px;
+    }
+    .hero-welcome {
+        width: 90%;
+        padding: 30px 20px;
+    }
+    .hero-welcome h2  {
+        font-size: 48px;
+    }
+    .join-now-hero {
+        height: auto;
+        padding: 100px 0 50px;
+    }
+    .hero-welcome p  {
+        font-size: 16px;
+        color: #fff!important;
+    }
+    .season h2  {
+        font-size: 39px;
+    }
+    .price sup {
+        left: 30%;
+    }
+    .call-to-action h2  {
+        font-size: 47px;
+        margin-bottom: 10px;
+    }
+    .contact p  {
+        width: 80%;
+    }
+    .contcat-form  {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+}
